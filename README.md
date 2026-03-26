@@ -44,3 +44,5 @@ El procesamiento del dataset actual permitió:
 ---
 
 **Nota:** Por razones de confidencialidad y cumplimiento de la Ley N° 29733 (Ley de Protección de Datos Personales en Perú), los datasets utilizados en este repositorio han sido anonimizados o contienen datos sintéticos para fines demostrativos.
+
+![Análisis de Brechas](grafico_brechas.png)
